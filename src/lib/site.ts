@@ -1,0 +1,10 @@
+export const SITE_BASE_URL = process.env.NEXT_PUBLIC_SITE_BASE_URL
+export const SITE_BASE_ASSET_URL = process.env.NEXT_PUBLIC_SITE_BASE_ASSET_URL
+export const SITE_BASE_PATH = process.env.NEXT_PUBLIC_SITE_BASE_PATH
+export const SITE_IMAGE = 'images/social/social-share-2.jpg'
+export const SITE_HANDLE = '@wearecharitable'
+export const SITE_NAME = 'Charitable Impact | Blog'
+export const SITE_PHONE = '1-877-531-0580'
+export const SITE_TITLE = 'Build a brighter future'
+export const SITE_DESC = 'Find Canadian charities, manage your charitable giving, give with others, and create the change you want to see in the world from one account.'
+export const SITE_ENV = process.env.NEXT_PUBLIC_APP_ENV
